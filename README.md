@@ -2,8 +2,7 @@
 
 > **High-Fidelity Prototype designed with Human-Computer Interaction (HCI) principles in mind.**
 
-![Cover Image](Screenshot 2025-12-07 195105.png)
-*(Jangan lupa upload screenshot dashboard lo ke folder di repo, terus ganti link ini)*
+![Cover Image](Screenshot2025-12-07195105.png)
 
 ## 📖 About The Project
 Synapse is a desktop-based Learning Management System (LMS) designed to solve the problem of "High Cognitive Load" in traditional e-learning platforms. Built using **C# Windows Forms**, this application focuses on specific HCI principles:
