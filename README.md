@@ -2,7 +2,7 @@
 
 > **High-Fidelity Prototype designed with Human-Computer Interaction (HCI) principles in mind.**
 
-![Cover Image](Screenshot-2025-12-07-195105.png)
+![Cover Image](Dashboard.png)
 
 ## 📖 About The Project
 Synapse is a desktop-based Learning Management System (LMS) designed to solve the problem of "High Cognitive Load" in traditional e-learning platforms. Built using **C# Windows Forms**, this application focuses on specific HCI principles:
@@ -27,11 +27,11 @@ Synapse is a desktop-based Learning Management System (LMS) designed to solve th
 ## 📸 Screenshots
 | Login Page | Assignments Filter |
 | :---: | :---: |
-| ![Login](link_gambar_login.png) | ![Assignments](link_gambar_assignments.png) |
+| ![Login](Login.png) | ![Assignments](AssgnQuiz.png) |
 
 | My Courses | Progress Report |
 | :---: | :---: |
-| ![Courses](link_gambar_courses.png) | ![Report](link_gambar_report.png) |
+| ![Courses](Mycourse1.png) | ![Report](progreport1.png) |
 
 ## 👨‍💻 Author
 **Setya Ramadan**
